@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Sasuke
 
-<p>A Developer ~ Python , Bash , GO</p>
+<p>A Developer ~ Javascript , Html , CSS</p>
+
 ---
 
 <p align="center">
