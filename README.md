@@ -3,8 +3,8 @@
 A Developer ~ JavaScript , React Js , Html , Css
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/928575023705391135.png) -->
-<a href="https://discord.com/users/928575023705391135">
-<img src="https://discord.c99.nl/widget/theme-3/928575023705391135.png" alt="Discord"/>
+<a href="https://discord.com/users/991312753279127652">
+<img src="https://discord.c99.nl/widget/theme-3/991312753279127652.png" alt="Discord"/>
 </a>
 
 
