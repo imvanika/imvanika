@@ -16,14 +16,15 @@ A Developer ~ JavaScript , React Js , Html , Css
 
 **Projects**
 
-- [Aware](https://discord.gg/jishaku)
-- [Origin Multipurpose](https://discord.gg/jishaku)
+- [Artic](https://dsc.gg/articinv)
+- [Tunics](https://dsc.gg/articinv)
+- [Aloa](https://dsc.gg/articinv)
 
 **Socials**
 
-- [Website](https://n1ghtmare.xyz)
-- [Server](https://discord.gg/nightmaredev)
-- [GitHub](https://github.com/NightMare3301)
+- [Website](https://feds.lol/sasukedev)
+- [Server](https://discord.gg/blackeye)
+- [GitHub](https://github.com/SasukeKun007)
 
 <a href="https://discord.com/users/928575023705391135" target="_blank" >
     <img align ="left" alt="NightMare's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
