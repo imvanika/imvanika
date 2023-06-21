@@ -10,9 +10,9 @@ A Developer ~ JavaScript , React Js , Html , Css
 
  **Information:**
 
-- 🔭 I’m currently working on  **Aware**
-- 🌱 I’m currently learning  **Bash , C#**
-- 🌱 Contact : contact@n1ghtmare.xyz
+- 🔭 I’m currently working on  **Artic**
+- 🌱 I’m currently learning  **Python , Bash**
+- 🌱 Contact : discord.gg/blackeye
 
 **Projects**
 
