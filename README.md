@@ -26,17 +26,12 @@ A Developer ~ JavaScript , React Js , Html , Css
 - [Server](https://discord.gg/blackeye)
 - [GitHub](https://github.com/SasukeKun007)
 
-<a href="https://discord.com/users/928575023705391135" target="_blank" >
-    <img align ="left" alt="NightMare's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://discord.com/users/991312753279127652" target="_blank" >
+    <img align ="left" alt="Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
-  <a href="https://github.com/NightMare3301" target="_blank">
-    <img align ="left" alt="NIghtMare's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/SasukeKun007" target="_blank">
+    <img align ="left" alt="Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-<a href="https://instagram.com/fraze1337x" target="_blank" >
-    <img align ="left" alt="NightMare's Insta" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-<a href="https://youtube.com/@nightmareop" target="_blank" >
-    <img align ="left" alt="NightMare's YouTube" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-  </a>
+
 
 ![]()
