@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasukekun007&label=Profile%20views&color=0e75b6&style=flat" alt="sasukekun007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasukekun007" alt="sasukekun007" /></a> </p>
-
 - 🔭 I’m currently working on [Flank](https://discord.com/api/oauth2/authorize?client_id=872295368963002380&permissions=8&scope=bot)
 
 - 🌱 I’m currently learning **Python, Bash, Frameworks**
