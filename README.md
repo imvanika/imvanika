@@ -20,30 +20,15 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SasukeKun&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amajaying&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SasukeKun007&theme=dark&hide_border=true)<br/>
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amajaying&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-<!-- Work Summary -->
-<!-- <b>Work Summary</b><br> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amajaying&layout=compact&count_private=true&theme=dark"> -->
+![](https://github-contributor-stats.vercel.app/api?username=SasukeKun007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
-<!-- My Stats -->
 
-<!-- <b>My Statistics</b><br> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&show_icons=true&locale=en&theme=dark" alt="amajaying" /></p> -->
-<br>
-<!-- <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=amajaying&theme=dark" alt="amajaying" style="max-width: 100%;"/> -->
-</p>
-<!-- <img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=amajaying&theme=dracula"/> -->
-
-<!-- <a href="https://quine.sh/profile/amajaying"><img src="https://stats.quine.sh/amajaying/github?simple=true" alt="amajaying's GitHub stats" width="840px"></a> -->
 
 ## Watch my contributions get eaten by snake 🐍
 
