@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/amajaying/amajaying/blob/main/Banner.png"> -->
+<img src="https://media.discordapp.net/attachments/1121377587810275339/1121413684690960434/standard.gif">
 
 
 <h1 align="center">Hi 👋, I'm SasuKe</h1>
