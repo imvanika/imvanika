@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-<p>✨: Better at Node js, Html.<br>🌐: Learning Python, Bash<br>👨‍💻: Passionate UI/UX Designer & Frontend Developer <br>💗: Creating Projects In Cheqp <br>🏫: 4 Years Experience<br><br>👀: I am looking to contribute in <b>Open Source Projects.</b></p><br>
+<p>✨: Better at Node js, Html.<br>🌐: Learning Python, Bash<br>👨‍💻: Passionate UI/UX Designer & Frontend Developer <br>💗: Creating Projects In Cheqp <br>🏫: 4 Years Experience<br>👀: I am looking to contribute in <b>Open Source Projects.</b></p><br>
 
 
 
