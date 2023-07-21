@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VaniKa</h1>
+<h1 align="center">Hi 👋, I'm Sasuke</h1>
 <h3 align="center">A passionate intermid stack developer from India</h3>
 <br>
 
