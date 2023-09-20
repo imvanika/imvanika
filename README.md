@@ -16,6 +16,6 @@ const vanika = {
         supportie: "Avon Development"
     },
     currentFocus: "Artic Bot",
-    funFact: "You really are a waste."
+    funFact: "You really did wasted a lot of time here."
 }
 ```
