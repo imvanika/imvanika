@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<p>✨: Proficient in Javascript.<br>🌐: Learning Python & React JS<br>👨‍💻: 3 Years Of Programming Experience<br>💗: Creating Paid Projects For You In Cheap<br>☎️: Contact at imphoenix.dev@gmail.com <br>👀: I am looking to contribute in Open Source Projects.</b></p><br>
+<p>✨: Skillful in JavaScript.<br>🌐: Learning ML (Machine Learning)<br>👨‍💻: 3 Years Of Programming Experience<br>💗: Creating Paid Projects For You In Cheap<br>☎️: Contact at imphoenix.dev@gmail.com <br>👀: I am looking to contribute in Open Source Projects.</b></p><br>
 
 
 
