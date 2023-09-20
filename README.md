@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<p>✨: Skillful in JavaScript.<br>🌐: Learning ML (Machine Learning)<br>👨‍💻: 3 Years Of Programming Experience<br>💗: Creating Paid Projects For You In Cheap<br>☎️: Contact at imphoenix.dev@gmail.com <br>👀: I am looking to contribute in Open Source Projects.</b></p><br>
+<p>✨: Skillful in JavaScript.<br>🌐: Learning ML (Machine Learning)<br>👨‍💻: 3 Years Of Programming Experience<br>💗: Creating Projects At A Very Low Price<br>☎️: Contact at imphoenix.dev@gmail.com <br>👀: Contributive In <b>Open Source Projects</b>.</b></p><br>
 
 
 
