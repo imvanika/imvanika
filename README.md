@@ -1,14 +1,21 @@
 ```javascript
 const vanika = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    pronouns: "She/Her",
+    code: ["JavaScript", "HTML", "CSS"],
+    askMeAbout: ["Discord Bot Development", "Web Development"],
+    technologies: {
+        backend: {
+            js: ["Node", "Express"],
+        },
+        frontend: ["HTML", "CSS"]
+    },
+    database: ["mongoose", "quickmongo", "quick.db", "better-sqlite3"],
+    techCommunities: {
+        owner: "Artic Development",
+        manager: "October HQ",
+        supportie: "Avon Development"
+    },
+    currentFocus: "Artic Bot",
+    funFact: "You really are a waste."
 }
 ```
