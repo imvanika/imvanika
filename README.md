@@ -1,3 +1,9 @@
+<h1 align="center">Hi :wave:, I'm Vanika</h1>
+<img src="https://media.discordapp.net/attachments/978504859642908743/1132682794091421767/github_banner.jpg?width=1440&height=342" class="center">
+<br>
+
+
+
 # 💫 About Me:
 <p>✨: Skillful in JavaScript.<br>🌐: Learning ML (Machine Learning)<br>👨‍💻: 3 Years Of Programming Experience<br>💗: Creating Projects At A Very Low Price<br>☎️: Contact Me At The <a href = "https://discord.com/users/991312753279127652">Discord Application</a><br>👀: Contributive In <b>Open Source Projects</b>.</b></p><br>
 
