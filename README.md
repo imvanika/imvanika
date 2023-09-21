@@ -27,7 +27,7 @@ const vanika = {
         manager: "October HQ",
         supportie: "Groot Music"
     },
-    currentFocus: "Artic Bot",
+    currentFocus: "Artic & Groot Bot",
     funFact: "You really did wasted a lot of time here."
 }
 ```
