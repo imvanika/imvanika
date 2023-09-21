@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<p>✨: Skillful in JavaScript.<br>🌐: Learning ML (Machine Learning)<br>👨‍💻: 3 Years Of Programming Experience<br>💗: Creating Projects At A Very Low Price<br>☎️: Contact Me At The <a href = "https://discord.com/users/991312753279127652">Discord Application</a><br>👀: Contributive In <b>Open Source Projects</b>.</b></p><br>
+<p>✨: Skillful in JavaScript.<br>🌐: Learning ML (Machine Learning)<br>👨‍💻: 2 Years Of Programming Experience<br>💗: Creating Projects At A Very Low Price<br>☎️: Contact Me At The <a href = "https://discord.com/users/991312753279127652">Discord Application</a><br>👀: Contributive In <b>Open Source Projects</b>.</b></p><br>
 
 
 
