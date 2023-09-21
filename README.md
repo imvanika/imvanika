@@ -25,7 +25,7 @@ const vanika = {
     techCommunities: {
         owner: "Artic Development",
         manager: "October HQ",
-        supportie: "Avon Development"
+        supportie: "Groot Music"
     },
     currentFocus: "Artic Bot",
     funFact: "You really did wasted a lot of time here."
