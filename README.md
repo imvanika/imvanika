@@ -13,7 +13,7 @@
 ```javascript
 const vanika = {
     pronouns: "She/Her",
-    code: ["JavaScript", "HTML", "CSS"],
+    code: ["JavaScript", "HTML", "CSS", "Rest Client", "Express"],
     askMeAbout: ["Discord Bot Development", "Web Development"],
     technologies: {
         backend: {
