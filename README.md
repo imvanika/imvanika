@@ -1,5 +1,6 @@
 <h1 align="center">Hi :wave:, I'm Vanika</h1>
 <img src="https://media.discordapp.net/attachments/978504859642908743/1132682794091421767/github_banner.jpg?width=1440&height=342" class="center">
+<img src="https://discord.c99.nl/widget/theme-3/991312753279127652.png" class="center">
 <br>
 
 
