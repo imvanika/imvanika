@@ -32,7 +32,7 @@ const vanika = {
 }
 ```
 <br>
-<img src="https://discord.c99.nl/widget/theme-3/991312753279127652.png" class="center">
+<img src="[[https://discord.c99.nl/widget/theme-3/991312753279127652.png](https://discord.c99.nl/widget/theme-2/991312753279127652.png)](https://discord.c99.nl/widget/theme-2/991312753279127652.png)" class="center">
 
 
 # 💻 Tech Stack:
