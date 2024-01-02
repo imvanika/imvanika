@@ -1,5 +1,5 @@
 <h1 align="left">Hey There :wave:, I'm Vanika</h1>
-<img src="https://discord.c99.nl/widget/theme-2/991312753279127652.png">
+![Discord](https://discord.c99.nl/widget/theme-2/991312753279127652.png)
 <br>
 
 
