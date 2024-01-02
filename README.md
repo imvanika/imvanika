@@ -1,4 +1,4 @@
-<h1 align="left">Hey There :wave:, I'm Vanika</h1>
+<h1 align="left">Hey There :wave:, I'm Vanika</h1> <hr>
 <a href="https://discord.com/users/991312753279127652">
 <img src="https://discord.c99.nl/widget/theme-2/991312753279127652.png" alt="Discord"/>
 </a>
