@@ -17,7 +17,7 @@
 ```javascript
 const vanika = {
     pronouns: "She/Her",
-    code: ["JavaScript", "HTML", "CSS", "Rest Client", "Express"],
+    code: ["JavaScript", "Python", "TypeScript", "Express.js"],
     askMeAbout: ["Discord Bot Development", "Web Development"],
     technologies: {
         backend: {
@@ -28,8 +28,8 @@ const vanika = {
     database: ["mongoose", "quickmongo", "quick.db", "better-sqlite3"],
     techCommunities: {
         owner: "Artic Development",
-        manager: "October HQ",
-        supportie: "Groot Music"
+        developer: "October HQ",
+        admin: "Groot Music"
     },
     currentFocus: "Artic & Groot Bot",
     funFact: "You really did wasted a lot of time here."
