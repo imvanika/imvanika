@@ -2,7 +2,7 @@
 <a href="https://discord.com/users/991312753279127652">
 <img src="https://discord.c99.nl/widget/theme-2/991312753279127652.png" alt="Discord"/>
 </a>
-
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=MaybeVanika&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
