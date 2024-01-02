@@ -1,5 +1,7 @@
 <h1 align="left">Hey There :wave:, I'm Vanika</h1>
-![Discord](https://discord.c99.nl/widget/theme-2/991312753279127652.png)
+<a href="https://discord.com/users/991312753279127652">
+<img src="https://discord.c99.nl/widget/theme-3/765841266181144596.png" alt="Discord"/>
+</a>
 <br>
 
 
