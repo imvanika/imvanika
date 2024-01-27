@@ -1,4 +1,4 @@
-<div class="header" align="center">
+<div class="header" align="left">
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=MaybeVanika&label=Profile%20Views&color=12&pretty=false" />
     </a>
