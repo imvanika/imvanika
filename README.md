@@ -21,3 +21,5 @@ const vanika = {
   funFact: "You really did wasted a lot of time here."
 }
 ```
+
+# さらに多くの統計:
