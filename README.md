@@ -25,7 +25,7 @@ const vanika = {
 # さらに多くの統計:
 <div align="center">
 
-![Vanika's Github Stats](https://github-readme-stats.vercel.app/api?username=maybevanika&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maybevanika&hide=TeX&layout=compact&theme=transparent&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maybevanika&theme=transparent&hide_border=true)
+![Vanika's Github Stats](https://github-readme-stats.vercel.app/api?username=MaybeVanika&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeVanika&hide=TeX&layout=compact&theme=transparent&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaybeVanika&theme=transparent&hide_border=true)
 </div>
