@@ -7,5 +7,3 @@ A Full Stack Developer
 - 🔭 I’m currently working on  **Groove Logger**
 - 🌱 I’m currently learning  **NextJS, Python**
 - 🌱 Contact : **vanika.tiwari@outlook.com**
-
-![]()
