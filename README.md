@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Vanika!  ![](https://komarev.com/ghpvc/?username=imvanika)
+### Hi there 👋, I'm Vanika!  
+![](https://komarev.com/ghpvc/?username=imvanika)
 
 A Full Stack Developer
 
